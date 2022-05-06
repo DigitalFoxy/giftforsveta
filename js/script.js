@@ -1,6 +1,6 @@
 setInterval(function makeCat() {
-	document.getElementById("meow").src = "img/meow-content.png";
-	setTimeout(function makeCatDefault() {document.getElementById("meow").src = "img/meow_neutral.png"}, 1000)
+	document.getElementById("meow").src = "https://digitalfoxy.github.io/giftforsveta/img/meow-content.png";
+	setTimeout(function makeCatDefault() {document.getElementById("meow").src = "https://digitalfoxy.github.io/giftforsveta/img/meow_neutral.png"}, 1000)
 },2500);
 
 function makefon1() {
@@ -17,14 +17,14 @@ document.getElementById("footer").style.background = "linear-gradient(-85deg,ros
 }
 
 function makeCatMad() {
-	document.getElementById("meow").src = "img/meow-mad.png";
+	document.getElementById("meow").src = "https://digitalfoxy.github.io/giftforsveta/img/meow-mad.png";
 }
 function makeCatThinking() {
-	document.getElementById("meow").src = "img/meow-thinking.png";
+	document.getElementById("meow").src = "https://digitalfoxy.github.io/giftforsveta/img/meow-thinking.png";
 }
 function makeCatLol() {
-	document.getElementById("meow").src = "img/meow-lol.png";
+	document.getElementById("meow").src = "https://digitalfoxy.github.io/giftforsveta/img/meow-lol.png";
 }
 function makeCatCrying() {
-	document.getElementById("meow").src = "img/meow-crying.png";
+	document.getElementById("meow").src = "https://digitalfoxy.github.io/giftforsveta/img/meow-crying.png";
 }
